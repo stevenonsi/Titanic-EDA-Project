@@ -23,5 +23,10 @@ Gender had a strong impact on survival
 Passenger class affected survival probability
 Age distribution is crucial for survival analysis
 How to Run
+
+### Open Notebook in Google Colab
+Click the badge below to open the notebook **interactive** on Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stevenonsi/Titanic-EDA-Project/blob/main/notebooks/Titanic-EDA-Project.ipynb)
 ### Clone the repo:
 git clone https://github.com/<stevenonsi>/Titanic-EDA-Project.git
