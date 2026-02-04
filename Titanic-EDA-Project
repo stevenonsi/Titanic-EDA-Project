@@ -1,0 +1,8 @@
+Titanic-EDA-Project/
+│
+├─ notebooks/
+│   └─ Titanic-EDA-Project.ipynb
+├─ data/
+│   └─ train.csv
+│   └─ test.csv
+└─ README.md
