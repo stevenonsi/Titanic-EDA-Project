@@ -12,9 +12,12 @@ Steps Performed
 
 Data Cleaning: Handle missing values and incorrect types
 Exploratory Data Analysis: Analyze patterns and trends
+
 Visualization: Graphical representation of insights
+
 Correlation Analysis: Understand relationships between variables
-Conclusion: Summary of key findings
+
+### Conclusion: Summary of key findings
 Key Findings
 Gender had a strong impact on survival
 Passenger class affected survival probability
