@@ -26,4 +26,4 @@ The goal is to understand the factors that affected passenger survival.
 ## How to Run
 1. Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/Titanic-EDA-Project.git
+git clone https://github.com/<stevenonsi>/Titanic-EDA-Project.git
